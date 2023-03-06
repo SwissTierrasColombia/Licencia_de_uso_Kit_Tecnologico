@@ -1,4 +1,4 @@
-**LICENCIA DE USO**
+**LICENCIA DE USO** (*Versión 01 de Octubre 25 de 2021*)
 
  **KIT TECNOLÓGICO DEL PROYECTO SWISSTIERRAS - COLOMBIA** 
 
@@ -23,15 +23,15 @@ El KIT tecnológico y Documental que la UNIÓN TEMPORAL SWISSPHOTO – INCIGE po
 
 **5.2. Gratuidad, territorio y alcance**. Mediante el presente documento, la UNIÓN TEMPORAL SWISSPHOTO – INCIGE, sus entidades constituyentes y sus entidades beneficiarias, le conceden al “EL USUARIO” una licencia no exclusiva, gratuita y limitada al territorio de la República de Colombia para usar uno o varios de los componentes del KIT Tecnológico, con el propósito de adelantar el siguiente tipo de iniciativas para la implementación de (“El Propósito”):
 
-- **Desarrollar procesos y procedimientos que permitan brindar servicios en los procesos de administración de tierras, de manera permanente, efectiva y enfocados en el ciudadano.\***
+- <u>**Desarrollar procesos y procedimientos que permitan brindar servicios en los procesos de administración de tierras, de manera permanente, efectiva y enfocados en el ciudadano.\***</u>
 
  
 
-- **Implementar nuevas directrices y procesos en perspectiva de propiciar el buen funcionamiento de la cadena de valor de la administración de tierras.\***
+- **<u>Implementar nuevas directrices y procesos en perspectiva de propiciar el buen funcionamiento de la cadena de valor de la administración de tierras.\*</u>**
 
  
 
-- **Desarrollar actividades de capacitación y transferencia de conocimiento de buenas prácticas internacionales relacionadas con sistemas modernos de administración de tierras y catastro multipropósito.\***
+- **<u>Desarrollar actividades de capacitación y transferencia de conocimiento de buenas prácticas internacionales relacionadas con sistemas modernos de administración de tierras y catastro multipropósito.</u>\***
 
  El USUARIO estará facultado para usar uno o varios de los elementos del KIT Tecnológico dentro del marco del modelo de desarrollo en *Open Source* (código abierto) en que se fundamentan los mismos, en especial, para adelantar las acciones relacionadas con el cumplimiento de “El Propósito”.
 
